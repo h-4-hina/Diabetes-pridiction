@@ -1,0 +1,5 @@
+streanlit
+numpy
+pandas
+joblib
+pillow
